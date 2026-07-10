@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 8 |
+| 38 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (29)
+- [implementation](#implementation) (30)
 - [math](#math) (9)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
@@ -86,6 +86,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 
