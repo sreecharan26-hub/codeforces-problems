@@ -3,14 +3,15 @@ using namespace std;
 int main(){
     string s;
     cin>>s;
-    map<char,int>mp;
+    set<char>st;
     for(auto i : s){
-        mp[i]++;
+        st.insert(i);
     }
-    if(mp.size()%2!=0){
-        cout<<"IGNORE HIM!";
-    }
-    else{
+    if(st.size()%2==0){
         cout<<"CHAT WITH HER!";
     }
+    else{
+        cout<<"IGNORE HIM!";
+    }
+    return 0;
 }
