@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 8 |
+| 42 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (33)
+- [implementation](#implementation) (34)
 - [math](#math) (9)
 - [sortings](#sortings) (5)
 - [strings](#strings) (11)
@@ -36,6 +36,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 330A | [Cakeminator](https://codeforces.com/contest/330/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/330/A%20-%20Cakeminator/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 
 ### constructive algorithms
@@ -79,6 +80,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 330A | [Cakeminator](https://codeforces.com/contest/330/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/330/A%20-%20Cakeminator/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
