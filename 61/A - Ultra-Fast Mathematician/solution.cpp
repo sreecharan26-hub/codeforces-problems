@@ -1,18 +1,11 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    string a,b;
-    cin>>a>>b;
-    
-    string ans = "";
+ 
+int main() {
+    string a, b;
+    cin >> a >> b;
     for(int i=0;i<a.size();i++){
-        if(a[i]==b[i]){
-            ans+='0';
-        }
-        else{
-            ans+='1';
-        }
+        cout<<char(((a[i]-'0')^(b[i]-'0'))+'0');
     }
-    cout<<ans;
     return 0;
 }
