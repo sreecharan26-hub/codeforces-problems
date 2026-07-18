@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 8 |
+| 48 | 9 |
 
 ---
 
@@ -15,11 +15,12 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (37)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (38)
 - [math](#math) (10)
 - [sortings](#sortings) (5)
 - [strings](#strings) (11)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -55,6 +56,7 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 
@@ -85,6 +87,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 330A | [Cakeminator](https://codeforces.com/contest/330/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/330/A%20-%20Cakeminator/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 431A | [Black Square](https://codeforces.com/contest/431/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/431/A%20-%20Black%20Square/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
@@ -140,6 +143,12 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 
 ---
 
