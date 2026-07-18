@@ -1,25 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int a1,a2,a3,a4;
-    cin>>a1>>a2>>a3>>a4;
+    int a[4];
+    for(int i=0;i<4;i++){
+        cin>>a[i];
+    }
+    int ans =0;
     string s;
     cin>>s;
-    int ans = 0;
-    // sort(s.begin(),s.end());
-    for(int i=0;i<s.size();i++){
-        if(s[i]=='1'){
-            ans+=a1;
-        }
-        else if(s[i]=='2'){
-            ans+=a2;
-        }
-        else if(s[i]=='3'){
-            ans+=a3;
-        }
-        else{
-            ans+=a4;
-        }
+    for(auto i : s){
+        ans+=a[i-'1'];
     }
     cout<<ans;
     return 0;
