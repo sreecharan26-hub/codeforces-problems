@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 9 |
+| 49 | 11 |
 
 ---
 
@@ -15,8 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (38)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (39)
 - [math](#math) (10)
 - [sortings](#sortings) (5)
 - [strings](#strings) (11)
@@ -48,6 +50,12 @@
 |---|---------|------------|----------|
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -60,10 +68,17 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
