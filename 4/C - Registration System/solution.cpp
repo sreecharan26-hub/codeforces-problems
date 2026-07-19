@@ -10,16 +10,14 @@ int main(){
     vector<string>s;
     map<string,int>a;
     for(auto i :v){
-        a[i]++;
-        if(a[i]==1){
-            s.push_back("OK");
+        
+        if(a[i]==0){
+            cout<<"OK"<<endl;
         }
         else{
-            s.push_back(i+to_string(a[i]-1));
+            cout<<i<<a[i]<<endl;
         }
-    }
-    for(auto i : s){
-        cout<<i<<endl;
+        a[i]++;
     }
     return 0;
     
