@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 11 |
+| 51 | 11 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (40)
-- [math](#math) (10)
+- [math](#math) (11)
 - [sortings](#sortings) (5)
 - [strings](#strings) (11)
 - [two pointers](#two-pointers) (1)
@@ -133,6 +133,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/sreecharan26-hub/codeforces-problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 
 ### sortings
 
